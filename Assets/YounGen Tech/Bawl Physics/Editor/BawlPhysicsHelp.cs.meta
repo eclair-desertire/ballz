@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 81ac5593a2c4c5542b1e2dbf653dbd15
+timeCreated: 1438432118
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - surfaceDetectionImage: {fileID: 2800000, guid: 3fe8e285f3767424399240d684657042,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
